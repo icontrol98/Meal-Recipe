@@ -1,0 +1,21 @@
+{
+  "name": "스마트 초등학교 급식 플래너",
+  "short_name": "AI 급식 플래너",
+  "description": "AI를 활용하여 초등학교 영양사를 위한 맞춤형 주간 식단 및 레시피를 생성하는 스마트 플래닝 도우미입니다.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
